@@ -2,22 +2,18 @@ package controlstatement.loops;
 
 import java.util.Scanner;
 
-//Write a program that prompts the user to input a positive integer. It should then
-//print the multiplication table of that number.
-public class PositiveIntMul {
+//Write a program to find the factorial value of any number entered through the
+//keyboard.
+public class Factorial {
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any positive number: ");
         num = sc.nextInt();
-
-        for (int i = 1; i<=10; i++){
-
-            System.out.println(num+ " x " +i+ " = " +i*num );
+        int fact = 1;
+        for (int i = 1; i<=num; i++){
+            fact = fact * i;
         }
-
+        System.out.println("Factorial of "+num+" is "+fact);
     }
 }
-
-
-
