@@ -19,4 +19,5 @@ public class RaisePower {
         System.out.println(num1+" raised to the power of "+num2+" is "+result);
     }
 
+
 }

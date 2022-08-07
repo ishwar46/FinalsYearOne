@@ -5,7 +5,6 @@ import java.util.Scanner;
 //Write a program that prompts the user to input a positive integer. It should then
 //output a message indicating whether the number is a prime number.
 public class PrimeNumber {
-
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);
@@ -23,6 +22,5 @@ public class PrimeNumber {
         else{
             System.out.println(num+" is not a prime number");
         }
-
     }
 }
