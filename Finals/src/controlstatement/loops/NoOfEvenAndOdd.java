@@ -1,6 +1,6 @@
 package controlstatement.loops;
 //WAP to display no. of even and no. of odd number between 10 and 30.
-public class Task3 {
+public class NoOfEvenAndOdd {
     public static void main(String[] args) {
         int even = 0;
         int odd = 0;

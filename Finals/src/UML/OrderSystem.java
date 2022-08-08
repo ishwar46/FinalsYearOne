@@ -2,9 +2,6 @@ package UML;
 
 import java.util.Date;
 
-public class OrderSystem {
-}
-
 class Customer{
     private int CustomerID;
     private String CustomerName;
@@ -12,7 +9,6 @@ class Customer{
     private int Phone;
 
     public String AddCustomer(){
-
         return null;
     }
 

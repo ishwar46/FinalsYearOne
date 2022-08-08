@@ -3,7 +3,7 @@ package controlstatement.loops;
 import java.util.Scanner;
 
 //WAP to display multiplication table of a given no.
-public class Task4 {
+public class MultiplicationTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number;
