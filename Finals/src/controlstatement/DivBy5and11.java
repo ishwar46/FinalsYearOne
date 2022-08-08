@@ -3,7 +3,7 @@ package controlstatement;
 import java.util.Scanner;
 
 //Write a JAVA program to check whether a number is divisible by 5 and 11 or not.
-public class TaskFour {
+public class DivBy5and11 {
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);

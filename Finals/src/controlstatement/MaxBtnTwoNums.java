@@ -3,7 +3,7 @@ package controlstatement;
 import java.util.Scanner;
 
 //Write a JAVA program to find maximum between two numbers.
-public class TaskOne {
+public class MaxBtnTwoNums {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a;
