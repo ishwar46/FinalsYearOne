@@ -11,9 +11,7 @@ import java.util.Scanner;
                     7 13 18 22 25 27 28 
 */
 
-/*
- * @author Vidhikara
- */
+
 public class pattern22 {
         public static void main(String args[]){
             

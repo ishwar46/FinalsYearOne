@@ -10,10 +10,7 @@ import java.util.Scanner;
                     * * * * * * *  
 */
 
-/**
- *
- * @author Vidhikara
- */
+
 public class pattern11 {
 
     public static void main(String[] args) {

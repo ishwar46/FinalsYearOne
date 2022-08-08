@@ -10,10 +10,7 @@ package Patterns;
 */
 
 import java.util.Scanner;
-/**
- *
- * @author Vidhikara
- */
+
 public class pattern13 {
 
     public static void main(String[] args) {

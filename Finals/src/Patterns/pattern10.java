@@ -10,10 +10,6 @@ import java.util.Scanner;
                * * * * * *  
               * * * * * * *
 */
-/**
- *
- * @author Vidhikara
- */
 public class pattern10 {
 
     public static void main(String[] args) {

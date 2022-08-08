@@ -16,10 +16,7 @@ import java.util.Scanner;
                                 *  
 */
 
-/**
- *
- * @author Vidhikara
- */
+
 public class pattern17 {
 
     public static void main(String[] args) {

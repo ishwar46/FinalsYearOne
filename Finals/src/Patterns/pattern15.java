@@ -17,10 +17,7 @@ package Patterns;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Vidhikara
- */
+
 public class pattern15 {
     public static void main(String[] args) {
          Scanner input = new Scanner(System.in);
