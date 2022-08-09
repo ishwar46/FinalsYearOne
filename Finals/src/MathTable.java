@@ -26,3 +26,14 @@ class RevMath{
         in.close();
     }
 }
+
+//Print the multiplication table of 15 using recursion.
+class Recursion{
+    public static void main(String[] args) {
+        int N = 15;
+        for(int i=1; i<=10; i++){
+            int res = N*i;
+            System.out.println(N+" x "+i+" = "+res);
+        }
+    }
+}
