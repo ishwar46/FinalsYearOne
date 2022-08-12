@@ -1,5 +1,5 @@
 package OOPSample;
-//Create a JAVA class named QueueUsingArray.java and show the implementation of Queue using Array in it.
+//Create a JAVA class named QueueUsingArray and show the implementation of Queue using Array in it.
 public class QueueUsingArray {
     int[] arr;
     int front;

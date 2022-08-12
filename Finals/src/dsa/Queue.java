@@ -1,5 +1,5 @@
 package dsa;
-
+//Queue Using Array
 public class Queue {
     private int[] arr;      // array to store queue elements
     private int front;      // front points to the front element in the queue
